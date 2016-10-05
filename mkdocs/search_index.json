@@ -1,0 +1,194 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "AppDynamics Release Notes", 
+            "title": "Mobile Agents"
+        }, 
+        {
+            "location": "/#appdynamics-release-notes", 
+            "text": "", 
+            "title": "AppDynamics Release Notes"
+        }, 
+        {
+            "location": "/ios-agent/4.3.1/", 
+            "text": "Release Notes for AppDynamics iOS Agent\n\n\n4.3.1\n\n\n4.3.1.1\n\n\nThis release adds support for iOS 10 and iPhone 7. You can also now monitor your application\ns UI performance with our new interaction instrumentation feature.\n\n\nBug Fixes\n\n\n\n\n\n\n\n\nIssue Description\n\n\nIdentifier\n\n\n\n\n\n\n\n\n\n\nCrash on 64-bit iPads\n\n\nCORE-12345\n\n\n\n\n\n\nSome network requests not reported\n\n\nCORE-12346\n\n\n\n\n\n\n\n\nReference:\n\n\n\n\nAPI Reference\n\n\nDownload\n\n\n\n\n4.3.1.0\n\n\nThis release adds support for iOS 9 and iPhone 6.\n\n\n\n\nAPI Reference\n\n\nDownload", 
+            "title": "4.3.1"
+        }, 
+        {
+            "location": "/ios-agent/4.3.1/#release-notes-for-appdynamics-ios-agent", 
+            "text": "", 
+            "title": "Release Notes for AppDynamics iOS Agent"
+        }, 
+        {
+            "location": "/ios-agent/4.3.1/#431", 
+            "text": "", 
+            "title": "4.3.1"
+        }, 
+        {
+            "location": "/ios-agent/4.3.1/#4311", 
+            "text": "This release adds support for iOS 10 and iPhone 7. You can also now monitor your application s UI performance with our new interaction instrumentation feature.", 
+            "title": "4.3.1.1"
+        }, 
+        {
+            "location": "/ios-agent/4.3.1/#bug-fixes", 
+            "text": "Issue Description  Identifier      Crash on 64-bit iPads  CORE-12345    Some network requests not reported  CORE-12346     Reference:   API Reference  Download", 
+            "title": "Bug Fixes"
+        }, 
+        {
+            "location": "/ios-agent/4.3.1/#4310", 
+            "text": "This release adds support for iOS 9 and iPhone 6.   API Reference  Download", 
+            "title": "4.3.1.0"
+        }, 
+        {
+            "location": "/ios-agent/4.3.2/", 
+            "text": "Release Notes for AppDynamics iOS Agent\n\n\n4.3.2\n\n\n4.3.2.1\n\n\nThis release adds support for iOS 10 and iPhone 7. You can also now monitor your application\ns UI performance with our new interaction instrumentation feature.\n\n\nBug Fixes\n\n\n\n\n\n\n\n\nIssue Description\n\n\nIdentifier\n\n\n\n\n\n\n\n\n\n\nCrash on 64-bit iPads\n\n\nCORE-12345\n\n\n\n\n\n\nSome network requests not reported\n\n\nCORE-12346\n\n\n\n\n\n\n\n\nReference:\n\n\n\n\nAPI Reference\n\n\nDownload\n\n\n\n\n4.3.2.0\n\n\nThis release adds support for iOS 9 and iPhone 6.\n\n\n\n\nAPI Reference\n\n\nDownload", 
+            "title": "4.3.2"
+        }, 
+        {
+            "location": "/ios-agent/4.3.2/#release-notes-for-appdynamics-ios-agent", 
+            "text": "", 
+            "title": "Release Notes for AppDynamics iOS Agent"
+        }, 
+        {
+            "location": "/ios-agent/4.3.2/#432", 
+            "text": "", 
+            "title": "4.3.2"
+        }, 
+        {
+            "location": "/ios-agent/4.3.2/#4321", 
+            "text": "This release adds support for iOS 10 and iPhone 7. You can also now monitor your application s UI performance with our new interaction instrumentation feature.", 
+            "title": "4.3.2.1"
+        }, 
+        {
+            "location": "/ios-agent/4.3.2/#bug-fixes", 
+            "text": "Issue Description  Identifier      Crash on 64-bit iPads  CORE-12345    Some network requests not reported  CORE-12346     Reference:   API Reference  Download", 
+            "title": "Bug Fixes"
+        }, 
+        {
+            "location": "/ios-agent/4.3.2/#4320", 
+            "text": "This release adds support for iOS 9 and iPhone 6.   API Reference  Download", 
+            "title": "4.3.2.0"
+        }, 
+        {
+            "location": "/ios-agent/4.3.3/", 
+            "text": "Release Notes for AppDynamics iOS Agent\n\n\n4.3.3\n\n\n4.3.3.1\n\n\nThis release adds support for iOS 10 and iPhone 7. You can also now monitor your application\ns UI performance with our new interaction instrumentation feature.\n\n\nBug Fixes\n\n\n\n\n\n\n\n\nIssue Description\n\n\nIdentifier\n\n\n\n\n\n\n\n\n\n\nCrash on 64-bit iPads\n\n\nCORE-12345\n\n\n\n\n\n\nSome network requests not reported\n\n\nCORE-12346\n\n\n\n\n\n\n\n\nReference:\n\n\n\n\nAPI Reference\n\n\nDownload\n\n\n\n\n4.3.3.0\n\n\nThis release adds support for iOS 9 and iPhone 6.\n\n\n\n\nAPI Reference\n\n\nDownload", 
+            "title": "4.3.3"
+        }, 
+        {
+            "location": "/ios-agent/4.3.3/#release-notes-for-appdynamics-ios-agent", 
+            "text": "", 
+            "title": "Release Notes for AppDynamics iOS Agent"
+        }, 
+        {
+            "location": "/ios-agent/4.3.3/#433", 
+            "text": "", 
+            "title": "4.3.3"
+        }, 
+        {
+            "location": "/ios-agent/4.3.3/#4331", 
+            "text": "This release adds support for iOS 10 and iPhone 7. You can also now monitor your application s UI performance with our new interaction instrumentation feature.", 
+            "title": "4.3.3.1"
+        }, 
+        {
+            "location": "/ios-agent/4.3.3/#bug-fixes", 
+            "text": "Issue Description  Identifier      Crash on 64-bit iPads  CORE-12345    Some network requests not reported  CORE-12346     Reference:   API Reference  Download", 
+            "title": "Bug Fixes"
+        }, 
+        {
+            "location": "/ios-agent/4.3.3/#4330", 
+            "text": "This release adds support for iOS 9 and iPhone 6.   API Reference  Download", 
+            "title": "4.3.3.0"
+        }, 
+        {
+            "location": "/android-agent/4.3.1/", 
+            "text": "Release Notes for the AppDynamics Android Agent\n\n\n4.3.1\n\n\n4.3.1.1\n\n\nThis release adds support for Android 6.x. You can also now monitor your application\ns UI performance with our new interaction instrumentation feature.\n\n\nBug Fixes\n\n\n\n\n\n\n\n\nIssue Description\n\n\nIdentifier\n\n\n\n\n\n\n\n\n\n\nCrash on 64-bit iPads\n\n\nCORE-12345\n\n\n\n\n\n\nSome network requests not reported\n\n\nCORE-12346\n\n\n\n\n\n\n\n\nReference:\n\n\n\n\nAPI Reference\n\n\nDownload\n\n\n\n\n4.3.1.0\n\n\nThis release adds support for Android 6.5 and Galaxy 7.\n\n\n\n\nAPI Reference\n\n\nDownload", 
+            "title": "4.3.1"
+        }, 
+        {
+            "location": "/android-agent/4.3.1/#release-notes-for-the-appdynamics-android-agent", 
+            "text": "", 
+            "title": "Release Notes for the AppDynamics Android Agent"
+        }, 
+        {
+            "location": "/android-agent/4.3.1/#431", 
+            "text": "", 
+            "title": "4.3.1"
+        }, 
+        {
+            "location": "/android-agent/4.3.1/#4311", 
+            "text": "This release adds support for Android 6.x. You can also now monitor your application s UI performance with our new interaction instrumentation feature.", 
+            "title": "4.3.1.1"
+        }, 
+        {
+            "location": "/android-agent/4.3.1/#bug-fixes", 
+            "text": "Issue Description  Identifier      Crash on 64-bit iPads  CORE-12345    Some network requests not reported  CORE-12346     Reference:   API Reference  Download", 
+            "title": "Bug Fixes"
+        }, 
+        {
+            "location": "/android-agent/4.3.1/#4310", 
+            "text": "This release adds support for Android 6.5 and Galaxy 7.   API Reference  Download", 
+            "title": "4.3.1.0"
+        }, 
+        {
+            "location": "/android-agent/4.3.2/", 
+            "text": "Release Notes for the AppDynamics Android Agent\n\n\n4.3.2\n\n\n4.3.2.1\n\n\nThis release adds support for Android 6.x. You can also now monitor your application\ns UI performance with our new interaction instrumentation feature.\n\n\nBug Fixes\n\n\n\n\n\n\n\n\nIssue Description\n\n\nIdentifier\n\n\n\n\n\n\n\n\n\n\nCrash on 64-bit iPads\n\n\nCORE-12345\n\n\n\n\n\n\nSome network requests not reported\n\n\nCORE-12346\n\n\n\n\n\n\n\n\nReference:\n\n\n\n\nAPI Reference\n\n\nDownload\n\n\n\n\n4.3.2.0\n\n\nThis release adds support for Android 6.5 and Galaxy 7.\n\n\n\n\nAPI Reference\n\n\nDownload", 
+            "title": "4.3.2"
+        }, 
+        {
+            "location": "/android-agent/4.3.2/#release-notes-for-the-appdynamics-android-agent", 
+            "text": "", 
+            "title": "Release Notes for the AppDynamics Android Agent"
+        }, 
+        {
+            "location": "/android-agent/4.3.2/#432", 
+            "text": "", 
+            "title": "4.3.2"
+        }, 
+        {
+            "location": "/android-agent/4.3.2/#4321", 
+            "text": "This release adds support for Android 6.x. You can also now monitor your application s UI performance with our new interaction instrumentation feature.", 
+            "title": "4.3.2.1"
+        }, 
+        {
+            "location": "/android-agent/4.3.2/#bug-fixes", 
+            "text": "Issue Description  Identifier      Crash on 64-bit iPads  CORE-12345    Some network requests not reported  CORE-12346     Reference:   API Reference  Download", 
+            "title": "Bug Fixes"
+        }, 
+        {
+            "location": "/android-agent/4.3.2/#4320", 
+            "text": "This release adds support for Android 6.5 and Galaxy 7.   API Reference  Download", 
+            "title": "4.3.2.0"
+        }, 
+        {
+            "location": "/android-agent/4.3.3/", 
+            "text": "Release Notes for the AppDynamics Android Agent\n\n\n4.3.3\n\n\n4.3.3.1\n\n\nThis release adds support for Android 7. You can also now monitor your application\ns UI performance with our new interaction instrumentation feature.\n\n\nBug Fixes\n\n\n\n\n\n\n\n\nIssue Description\n\n\nIdentifier\n\n\n\n\n\n\n\n\n\n\nCrash on 64-bit iPads\n\n\nCORE-12345\n\n\n\n\n\n\nSome network requests not reported\n\n\nCORE-12346\n\n\n\n\n\n\n\n\nReference:\n\n\n\n\nAPI Reference\n\n\nDownload\n\n\n\n\n4.3.3.0\n\n\nThis release adds support for Android 7.\n\n\n\n\nAPI Reference\n\n\nDownload", 
+            "title": "4.3.3"
+        }, 
+        {
+            "location": "/android-agent/4.3.3/#release-notes-for-the-appdynamics-android-agent", 
+            "text": "", 
+            "title": "Release Notes for the AppDynamics Android Agent"
+        }, 
+        {
+            "location": "/android-agent/4.3.3/#433", 
+            "text": "", 
+            "title": "4.3.3"
+        }, 
+        {
+            "location": "/android-agent/4.3.3/#4331", 
+            "text": "This release adds support for Android 7. You can also now monitor your application s UI performance with our new interaction instrumentation feature.", 
+            "title": "4.3.3.1"
+        }, 
+        {
+            "location": "/android-agent/4.3.3/#bug-fixes", 
+            "text": "Issue Description  Identifier      Crash on 64-bit iPads  CORE-12345    Some network requests not reported  CORE-12346     Reference:   API Reference  Download", 
+            "title": "Bug Fixes"
+        }, 
+        {
+            "location": "/android-agent/4.3.3/#4330", 
+            "text": "This release adds support for Android 7.   API Reference  Download", 
+            "title": "4.3.3.0"
+        }
+    ]
+}
